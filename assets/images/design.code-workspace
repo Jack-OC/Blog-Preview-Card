@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "design",
+			"path": "../../design"
+		},
+		{
+			"name": "blog-preview-card",
+			"path": "../../../../Documents/blog-preview-card"
+		},
+		{
+			"name": "assets",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
