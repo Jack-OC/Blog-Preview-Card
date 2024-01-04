@@ -20,8 +20,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:
+- Solution URL: [Solution URL](https://github.com/Jack-OC/Blog-Preview-Card)
+- Live Site URL: [Live Site URL](https://jack-oc.github.io/Blog-Preview-Card/)
 
 ## My process
 
