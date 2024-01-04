@@ -19,7 +19,7 @@
 body {
     font-family: 'Figtree', sans-serif;
     background-color: var(--Yellow);
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -49,18 +49,18 @@ body {
     width: fit-content;
     padding: 0.4em 0.8em;
     background-color: var(--Yellow);
-    font-size: 10px;
+    font-size: 0.6em;
     font-weight: 800;
     border-radius: 4px;
 }
 
 .publish-date{
-    font-size: 11px;
+    font-size: 0.7em;
     color: var(--Black);
 }
 
 .card-title{
-    font-size: 18px;
+    font-size: 1.1em;
     cursor: pointer;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .description{
-    font-size: 12px;
+    font-size: 0.8em;
     font-weight: 200;
     line-height: 16px;
     color: var(--Grey);
@@ -93,7 +93,7 @@ body {
 }
 
 .author-name{
-    font-size: 10px;
+    font-size: 0.6em;
 }
 
 @media only screen and (max-width: 375px) {
